@@ -102,3 +102,4 @@ delay(1000);
 
 ## RESULT:
 Thus the automatic light controller was designed and simulated using LDR and Arduino UNO controller.
+
